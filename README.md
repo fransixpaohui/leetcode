@@ -1,1 +1,2 @@
-adasd
+# leetcode
+# for personal leetcode exercise
