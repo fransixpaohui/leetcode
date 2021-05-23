@@ -1,2 +1,2 @@
 # leetcode
-# for personal leetcode exercise
+for personal leetcode exercise
