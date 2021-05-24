@@ -8,7 +8,6 @@
  * 带*的注释表明第一次提交失误
  *
  */
-//! leetcode插件在输入字符串测试点时有问题，目前不知道格式
 
 // @lc code=start
 class Solution {
