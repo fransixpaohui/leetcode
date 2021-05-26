@@ -10,7 +10,7 @@ class Solution {
     /*
      *（1）求出每个以heights[i]为高的最大矩形面积，取最大值
      *
-     *（2）用单调栈实现，如果 height[i]<height[st.top()]
+     *（2）用单调栈实现，如果 height[i]<= height[st.top()]
      *    就循环，对 st.top() 进行（1）中计算，
      */
     int largestRectangleArea(vector<int>& heights) {
