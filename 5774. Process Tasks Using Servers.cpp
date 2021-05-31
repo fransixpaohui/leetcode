@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=5774 lang=cpp
+ * @lc app=leetcode id=1882 lang=cpp
  *
- * [5774] Process Tasks Using Servers
+ * [1882] Process Tasks Using Servers
  * 
  * 第一次知道优先队列priority_queue、emplace函数以及pair的初步使用
  */
